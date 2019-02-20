@@ -1,0 +1,48 @@
+body {
+  background-image: url("https://attachment.outlook.live.net/owa/ruben941@live.com.mx/service.svc/s/GetAttachmentThumbnail?id=AQMkADAwATM3ZmYAZS04ZWI1LTZhOGItMDACLTAwCgBGAAAD3T%2BZEu01q0qIC8uNRJwgcAcAODHyJrclKkCEPhWYGmxTpgAAAgEMAAAAODHyJrclKkCEPhWYGmxTpgAC4ZxLugAAAAESABAAYgLVbxpNskC0tABsZpIh%2FMs%3D&thumbnailType=2&owa=outlook.live.com&scriptVer=2019021101.03&isc=1&X-OWA-CANARY=4mTEPV1aWkip7rMIy9k5QpB73iYwlNYY9bSPj2VJbIG8e22AEPpI1HdL6OC-7oNOlEqqPNZKAdU.&token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjA2MDBGOUY2NzQ2MjA3MzdFNzM0MDRFMjg3QzQ1QTgxOENCN0NFQjgiLCJ4NXQiOiJCZ0Q1OW5SaUJ6Zm5OQVRpaDhSYWdZeTN6cmciLCJ0eXAiOiJKV1QifQ.eyJ2ZXIiOiJFeGNoYW5nZS5DYWxsYmFjay5WMSIsImFwcGN0eHNlbmRlciI6Ik93YURvd25sb2FkQDg0ZGY5ZTdmLWU5ZjYtNDBhZi1iNDM1LWFhYWFhYWFhYWFhYSIsImFwcGN0eCI6IntcIm1zZXhjaHByb3RcIjpcIm93YVwiLFwicHJpbWFyeXNpZFwiOlwiUy0xLTI4MjctMjI5Mzc0LTIzOTQyNTM5NjNcIixcInB1aWRcIjpcIjk4NTE1NjIyMjgwNjY2N1wiLFwib2lkXCI6XCIwMDAzN2ZmZS04ZWI1LTZhOGItMDAwMC0wMDAwMDAwMDAwMDBcIixcInNjb3BlXCI6XCJPd2FEb3dubG9hZFwifSIsIm5iZiI6MTU1MDMzNjE4NiwiZXhwIjoxNTUwMzM2Nzg2LCJpc3MiOiIwMDAwMDAwMi0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDBAODRkZjllN2YtZTlmNi00MGFmLWI0MzUtYWFhYWFhYWFhYWFhIiwiYXVkIjoiMDAwMDAwMDItMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL2F0dGFjaG1lbnQub3V0bG9vay5saXZlLm5ldEA4NGRmOWU3Zi1lOWY2LTQwYWYtYjQzNS1hYWFhYWFhYWFhYWEifQ.WFwjhL0IQbcsPY2V1B7Vjn8F4Xc0Re1QtlVaGFbA1G2vh-8mCFm3N7XhAxgMPGORtl8AHbpZ3_yYf20Co4HNYIYbMkFFuj7d4F1Sz2Y9z5YMqSpgAb4skeEOZGKStw0lQ6O9G3tdRzE7jf7XQ16Qs5JfjRuP0hdzjjcMrl3kjnhe1CT7-RS9i0PW_gdjZZxMB-9__CQdFegAT0ETeU53aUrfyeF3AD3u8cnRbc3HIqt-Wt1mYeE8KufLInNuDTLHOXCRSBe0pvVEwnZwQh1e2Mdl1HfmqXSyLDGS92d5dvc-DYpmp5sadj9_f0RhwwUHW2We6Jm7EP8iUviWyORPFQ&animation=true");
+  background-repeat: repeat;
+  background-size:100% 100%;
+}
+
+.titulo{
+    color:red;
+    font-size: 40px;
+       font-family:sans-serif; 
+}
+
+.texto{
+    color:white;
+    font-size: 20px;
+    font-family: sans-serif;  
+    
+}
+
+ul {
+    font-size: 20px;
+font-family:sans-serif; width:400px;color: white;
+}
+ul li {width:299px;margin:0 0px;line-height:0px;}
+ul li.col1 {margin-left:250px;}
+ul li.col2 {margin-left:450px;}
+ul li.col3 {margin-left:650px;}
+ul li.col4 {margin-left:850px;}
+
+.btn-group {
+    float: right;
+}
+.btn-group .button {
+  background-color: black; 
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  cursor: pointer;
+  float: right;
+}
+
+.btn-group .button:hover {
+  background-color: darkred;
+}
